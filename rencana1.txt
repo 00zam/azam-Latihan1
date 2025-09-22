@@ -1,0 +1,4 @@
+rencana belajar
+1. GIT
+2. GITHUB
+3. JAVA
